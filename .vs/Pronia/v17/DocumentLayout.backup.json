@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Pronia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\areas\\admin\\controllers\\slideritemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\areas\\admin\\controllers\\slideritemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4326CFAA-C714-4694-8E0E-E09C7B21ED66}|Pronia.BL\\Pronia.BL.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.bl\\services\\concretes\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4326CFAA-C714-4694-8E0E-E09C7B21ED66}|Pronia.BL\\Pronia.BL.csproj|solutionrelative:pronia.bl\\services\\concretes\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF99B83-BBC7-4DD1-8BC0-A081A9C672C3}|Pronia.DAL\\Pronia.DAL.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF99B83-BBC7-4DD1-8BC0-A081A9C672C3}|Pronia.DAL\\Pronia.DAL.csproj|solutionrelative:pronia.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF99B83-BBC7-4DD1-8BC0-A081A9C672C3}|Pronia.DAL\\Pronia.DAL.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.dal\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF99B83-BBC7-4DD1-8BC0-A081A9C672C3}|Pronia.DAL\\Pronia.DAL.csproj|solutionrelative:pronia.dal\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\areas\\admin\\views\\slideritem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\areas\\admin\\views\\slideritem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\areas\\admin\\views\\slideritem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\areas\\admin\\views\\slideritem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF99B83-BBC7-4DD1-8BC0-A081A9C672C3}|Pronia.DAL\\Pronia.DAL.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.dal\\helpers\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF99B83-BBC7-4DD1-8BC0-A081A9C672C3}|Pronia.DAL\\Pronia.DAL.csproj|solutionrelative:pronia.dal\\helpers\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF99B83-BBC7-4DD1-8BC0-A081A9C672C3}|Pronia.DAL\\Pronia.DAL.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.dal\\contexts\\proniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF99B83-BBC7-4DD1-8BC0-A081A9C672C3}|Pronia.DAL\\Pronia.DAL.csproj|solutionrelative:pronia.dal\\contexts\\proniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\areas\\admin\\views\\slideritem\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\areas\\admin\\views\\slideritem\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\areas\\admin\\views\\slideritem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\areas\\admin\\views\\slideritem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|c:\\users\\lenovo\\desktop\\pronia\\pronia.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517846A0-4A75-4C66-8E3E-1846BA31241C}|Pronia.MVC\\Pronia.MVC.csproj|solutionrelative:pronia.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAANwAAAAAAAAAAAAkwAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T06:27:32.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.BL\\Services\\Concretes\\SliderItemService.cs",
+              "RelativeDocumentMoniker": "Pronia.BL\\Services\\Concretes\\SliderItemService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.BL\\Services\\Concretes\\SliderItemService.cs",
+              "RelativeToolTip": "Pronia.BL\\Services\\Concretes\\SliderItemService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAA5wGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:52:32.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Controllers\\SliderItemController.cs",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Areas\\Admin\\Controllers\\SliderItemController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Controllers\\SliderItemController.cs",
+              "RelativeToolTip": "Pronia.MVC\\Areas\\Admin\\Controllers\\SliderItemController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwEcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:25:50.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.DAL\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Pronia.DAL\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.DAL\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Pronia.DAL\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:51:58.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Update.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Update.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Update.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T07:31:42.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pronia.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:52:34.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderItem.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.DAL\\Models\\SliderItem.cs",
+              "RelativeDocumentMoniker": "Pronia.DAL\\Models\\SliderItem.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.DAL\\Models\\SliderItem.cs",
+              "RelativeToolTip": "Pronia.DAL\\Models\\SliderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:51:59.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T07:30:29.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Program.cs",
+              "RelativeToolTip": "Pronia.MVC\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:37:10.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.DAL\\Helpers\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "Pronia.DAL\\Helpers\\SqlHelper.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.DAL\\Helpers\\SqlHelper.cs",
+              "RelativeToolTip": "Pronia.DAL\\Helpers\\SqlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:40:56.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Pronia.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:23:12.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProniaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.DAL\\Contexts\\ProniaDbContext.cs",
+              "RelativeDocumentMoniker": "Pronia.DAL\\Contexts\\ProniaDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.DAL\\Contexts\\ProniaDbContext.cs",
+              "RelativeToolTip": "Pronia.DAL\\Contexts\\ProniaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:03:15.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Info.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Info.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Info.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T07:31:22.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Pronia.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\appsettings.json",
+              "RelativeToolTip": "Pronia.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T07:44:08.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T05:54:01.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T08:29:04.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T06:33:01.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T06:28:01.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T06:27:44.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Delete.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Areas\\Admin\\Views\\SliderItem\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T07:30:47.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T06:23:44.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pronia.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Pronia\\Pronia.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pronia.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T08:29:22.819Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
